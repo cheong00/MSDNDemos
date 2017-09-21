@@ -23,4 +23,7 @@ C:\Program Files\Java\jdk1.8.0_141\java TripleDESTest
 </pre>
 </p>
 <br/>
-
+<h2>MSAAListener</h2>
+<p><a href="https://social.msdn.microsoft.com/Forums/en-US/fec2e073-0ca5-4375-8a1d-be8e7b78c986/object-under-mouse-cursor?forum=netfxbcl">Inspired by this question</a>.Simple demo on how to get windows handle of window under cursor, and how to convert the retrieved window handle to IAccessible object.</p>
+<p>The code for get windows handle of window under cursor is provided by Castorix31 of MSDN forum.</p>
+<br/>
