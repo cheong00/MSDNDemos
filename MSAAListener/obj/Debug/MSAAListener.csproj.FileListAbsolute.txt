@@ -1,0 +1,9 @@
+C:\projects\WindowsFormsApplication1\MSAAListener\bin\Debug\MSAAListener.exe.config
+C:\projects\WindowsFormsApplication1\MSAAListener\bin\Debug\MSAAListener.exe
+C:\projects\WindowsFormsApplication1\MSAAListener\bin\Debug\MSAAListener.pdb
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.csprojResolveAssemblyReference.cache
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.Form1.resources
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.Properties.Resources.resources
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.csproj.GenerateResource.Cache
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.exe
+C:\projects\WindowsFormsApplication1\MSAAListener\obj\Debug\MSAAListener.pdb
