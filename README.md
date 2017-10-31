@@ -27,3 +27,9 @@ C:\Program Files\Java\jdk1.8.0_141\java TripleDESTest
 <p>Inspired by <a href="https://social.msdn.microsoft.com/Forums/en-US/fec2e073-0ca5-4375-8a1d-be8e7b78c986/object-under-mouse-cursor?forum=netfxbcl">this question</a>. Simple demo on how to get windows handle of window under cursor, and how to convert the retrieved window handle to IAccessible object.</p>
 <p>The code for get windows handle of window under cursor is provided by <a href="https://social.msdn.microsoft.com/profile/castorix31/?ws=usercard-mini">Castorix31</a> of MSDN forum.</p>
 <br/>
+<h2>DisableEdgeDoubleTapZoom</h2>
+<p>Not a MSDN forum project.<br />
+Experimenting with TamperMonkey to fix an usability problem that bugs me for a long time.<br />
+Since I pressed Export button but not sure where it'll save to, I'll just post the script content here.<br />
+Really simple change. Feel free to share it if you know someone who is also annoyed by this "Double tap zoom" feature.</p>
+<br/>
