@@ -36,3 +36,6 @@ Really simple change. Feel free to share it if you know someone who is also anno
 <h2>TransparentPicBoxTest</h2>
 <p>A very simple demo for <a href="https://social.msdn.microsoft.com/Forums/en-US/7dafceb4-96b2-4b94-955c-1af63b5c969c/how-do-i-make-a-picture-with-transparent-background-on-a-windows-form?forum=winforms">this question</a> on MSDN forum.</p>
 <br/>
+<h2>wb</h2>
+<p>A very simple demo for <a href="https://social.msdn.microsoft.com/Forums/vstudio/en-US/6520da59-0a45-49ff-aae6-cb217e0edfc2/how-can-i-make-double-click-in-webbrowser?forum=winforms">this question</a> on MSDN forum to show how to invoke double click on HTML element in WebBrowser control.</p>
+<br/>
