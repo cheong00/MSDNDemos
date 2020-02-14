@@ -43,8 +43,12 @@ namespace wb
 		private void btnInvoke_Click(object sender, EventArgs e)
         {
 			//MessageBox.Show("Invoke");
-			HtmlElement element = this.webbrowser1.Document.GetElementById("btnSample");
-			element.InvokeMember("ondblclick");
+			// this is the general way for it to work
+			//HtmlElement element = this.webbrowser1.Document.GetElementById("btnSample");
+			//element.InvokeMember("ondblclick");
+			
+			//if jQuery is allowed (and if the ondblclick handler is registered with jQuery dblclick handler), you can use "eval()" with caution.
+			this.webbrowser1.Document.InvokeScript("eval", new object[]{"$('#btnSample').dblclick()"});
         }
 		
 		private void InitializeComponent()
