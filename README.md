@@ -39,3 +39,6 @@ Really simple change. Feel free to share it if you know someone who is also anno
 <h2>wb</h2>
 <p>A very simple demo for <a href="https://social.msdn.microsoft.com/Forums/vstudio/en-US/6520da59-0a45-49ff-aae6-cb217e0edfc2/how-can-i-make-double-click-in-webbrowser?forum=winforms">this question</a> on MSDN forum to show how to invoke double click on HTML element in WebBrowser control.</p>
 <br/>
+<h2>ConsoleControlChar</h2>
+<p>A demo for <a href="https://social.msdn.microsoft.com/Forums/en-US/d48da1d5-71a0-4125-800d-b7be5cf3ab27/none-printable-character-in-c?forum=csharpgeneral">this question</a> on MSDN forum to show how to print non-printable character in Console application, as well as how to change font in Console application.</p>
+<br/>
