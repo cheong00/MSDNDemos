@@ -5,8 +5,11 @@ using System.Text;
 namespace ConsoleControlChar
 {
     /// <summary>
-    /// Examle on how to print non-printable character in Console application,
+    /// Example on how to print non-printable character in Console application,
     /// also how to change font in Console application.
+    ///
+    /// Code to set font comes from:
+    /// https://docs.microsoft.com/en-us/dotnet/api/system.console?redirectedfrom=MSDN&view=netframework-4.8#Unicode
     /// 
     /// This example will need /unsafe option to compile.
     /// Just use "csc /unsafe ConsoleControlChar.cs" to compile this project
