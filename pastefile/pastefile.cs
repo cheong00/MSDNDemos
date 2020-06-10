@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/// Just use "csc -reference:%windir%\Microsoft.NET\assembly\GAC_64\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll,%windir%\Microsoft.NET\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll VirtualFileDataObject.cs pastefile.cs /out:pastefile.exe" to compile this project
+/// Just use "csc pastefile.cs" to compile this project
 
 namespace pastefile
 {
