@@ -42,3 +42,6 @@ Really simple change. Feel free to share it if you know someone who is also anno
 <h2>ConsoleControlChar</h2>
 <p>A demo for <a href="https://social.msdn.microsoft.com/Forums/en-US/d48da1d5-71a0-4125-800d-b7be5cf3ab27/none-printable-character-in-c?forum=csharpgeneral">this question</a> on MSDN forum to show how to print non-printable character in Console application, as well as how to change font in Console application.</p>
 <br/>
+<h2>pastefile</h2>
+<p>A demo for <a href="https://social.msdn.microsoft.com/Forums/en-US/f1d3f3a9-db68-4225-9a01-64c327f7f56f/filedescriptor-clipboard-paste-a-zero-byte-file-to-remote-desktop?forum=csharpgeneral">this question</a> on MSDN forum to show how to copy file acress RDP session.</p>
+<br/>
