@@ -46,7 +46,8 @@ Really simple change. Feel free to share it if you know someone who is also anno
 <p>A demo for <a href="https://social.msdn.microsoft.com/Forums/en-US/f1d3f3a9-db68-4225-9a01-64c327f7f56f/filedescriptor-clipboard-paste-a-zero-byte-file-to-remote-desktop?forum=csharpgeneral">this question</a> on MSDN forum to show how to copy file acress RDP session.</p>
 <br/>
 <h2>RogueChecker</h2>
-  <p>This is a tool created by TeamDHCP on <a href="https://web.archive.org/web/20100601022750/http://blogs.technet.com/b/teamdhcp/archive/2009/07/03/rogue-dhcp-server-detection.aspx">TechNet blog</a> that can be used to detech rogue DHCP servers inside your network.</p>
+<p>This is a tool created by TeamDHCP on <a href="https://web.archive.org/web/20100601022750/http://blogs.technet.com/b/teamdhcp/archive/2009/07/03/rogue-dhcp-server-detection.aspx">TechNet blog</a> that can be used to detech rogue DHCP servers inside your network.</p>
 <p>Unfortunately seems the blog does not survive the transition to docs.microsoft.com, so I preserve a copy here for my future use.</p>
 <p>The original download URL is at: https://web.archive.org/web/20150103002912/http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-03-26-09-62/RogueChecker.zip </p>
+<p>Although I downloaded this file fresh from the WebArchive, I don't claim this file is safe or free from virus. You're strongly recommanded to download the file from source and scan with virus scanners before use it.</p>
 <br/>
