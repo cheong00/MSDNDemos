@@ -51,3 +51,8 @@ Really simple change. Feel free to share it if you know someone who is also anno
 <p>The original download URL is at: https://web.archive.org/web/20150103002912/http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-components-postattachments/00-03-26-09-62/RogueChecker.zip </p>
 <p>Although I downloaded this file fresh from the WebArchive, I don't claim this file is safe or free from virus. You're strongly recommanded to download the file from source and scan with virus scanners before use it.</p>
 <br/>
+<h2>Event1644Reader</h2>
+  <p>The PowerShell script referenced by <a href="https://docs.microsoft.com/en-US/troubleshoot/windows-server/identity/event1644reader-analyze-ldap-query-performance?source=docs#how-to-obtain-the-script">Use Event1644Reader.ps1 to analyze LDAP query performance in Windows Server</a>.</p>
+  <p>Since the Microsoft Script Center is closed and the "Browse code samples" site don't preserve all old scripts, I'll store one in here.</p>
+  <p>Originally downloaded from https://web.archive.org/web/20200318200838/https://gallery.technet.microsoft.com/scriptcenter/Event-1644-reader-Export-45205268/file/140579/1/Event1644Reader.ps1 </p>
+<br/>
